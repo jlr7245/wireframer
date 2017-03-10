@@ -16,21 +16,17 @@ might evaluate to
 
 <div class='hero'></div>
 
-<div class='w--in-grid'>
-  <div class='features'>
-    <ul>
-      <li class='feature'></li>
-      <li class='feature'></li>
-      <li class='feature'></li>
-    </ul>
-  </div>
+<div class='features'>
+  <ul>
+    <li class='feature'></li>
+    <li class='feature'></li>
+    <li class='feature'></li>
+  </ul>
 </div>
 
-<div class='w--in-grid'>
-  <main class='content'>
-    <p></p>
-  </main>
-</div>
+<main class='content'>
+  <p></p>
+</main>
 
 <footer class='footer'>
   <div class='footer-col'></div>
